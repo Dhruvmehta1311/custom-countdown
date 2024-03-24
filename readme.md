@@ -36,6 +36,44 @@ To use the countdown timer, follow these steps:
 3. Click the "Start Countdown" button to begin the countdown.
 4. Optionally, click the "Reset Countdown" button to restart the countdown.
 
+## Demo
+
+[Link to Demo](https://custom-countdown-psi.vercel.app/)
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+git clone https://github.com/Dhruvmehta1311/countdown-custom-countdown.git
+
+2. Open the project directory:
+
+
+3. Open `index.html` in your web browser.
+
+## Usage
+
+To use the countdown timer, follow these steps:
+
+1. Enter a title for the countdown.
+2. Select a date using the date picker.
+3. Click the "Start Countdown" button to begin the countdown.
+4. Optionally, click the "Reset Countdown" button to restart the countdown.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request with your changes.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Support
+
+For support, contact [your email address].
+
+
 ## Conclusion
 
 This README provides an overview of the countdown project, its features, implementation details, and usage instructions. Feel free to explore the code and customize it according to your requirements.
